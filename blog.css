@@ -1,0 +1,88 @@
+.men-bar
+{
+    background-color: aquamarine;
+}
+.log
+{
+    background-color: blue;
+    height:5%;
+    width:5%;
+    text-align: left;
+}
+.men
+{
+    text-align: right;
+}
+.categorie
+{
+background-color: brown;
+text-align: left;
+margin-right:90%;
+}
+.paragr
+{
+    text-align: center;
+    margin-top: 0%;
+    padding: auto;
+}
+.card
+{
+    background: blue;
+    height: 400px;
+    width:40%;
+    padding: 10px 10px 10px 10px;
+    margin:10px;
+    text-align: center;
+    
+}
+.hidden
+{
+    display:none !important;
+}
+.container
+{
+    display: flex;
+
+}
+.card:hover
+{
+    background:black;
+}
+    .image2
+    {
+        
+            background:url("image2.jpeg" );
+            height: 30%;
+            
+            text-align:center;
+            justify-content: center;
+            background: cover;
+        
+        }
+    .image3
+    {
+        
+            background:url("image3.jpeg");
+        
+            height:30%;
+            
+            
+            text-align:left;
+            background: cover;
+        
+    }
+    .image4
+    {
+        background:url("image4.jpg");
+    height:30%;
+    
+    text-align:right;
+    background: cover;
+    }
+    .bt-one{
+        border: solid;
+        display: block;
+    text-align: center;
+    background-color: aquamarine;
+    
+    }
